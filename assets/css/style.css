@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: Yusei Magic;
   color: #272829;
 }
 
@@ -28,7 +28,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: Yusei Magic;
 }
 
 /*--------------------------------------------------------------
@@ -92,7 +92,9 @@ h6 {
   font-weight: 600;
   -moz-text-align-last: center;
   text-align-last: center;
-  font-family: "Poppins", sans-serif;
+  font-family: Yusei Magic;
+  text-transform: uppercase;
+
 }
 
 #header .profile h1 a,
@@ -257,7 +259,7 @@ h6 {
   margin-bottom: 50px;
   margin-left: 165px;
   font-size: 26px;
-  font-family: "Poppins", sans-serif;
+  font-family: Yusei Magic;
 }
 
 #hero p span {
@@ -1092,6 +1094,8 @@ section {
 
 #footer .copyright {
   text-align: center;
+  color: whitesmoke;
+  font-weight: 200;
 }
 
 #footer .credits {
